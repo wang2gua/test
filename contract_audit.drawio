@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T12:47:13.890Z" agent="5.0 (Macintosh)" etag="8XCXbufWl3mIejN5R3P6" version="14.2.4" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vlbc9o4FP41ekzGd6RHG9vZ7nbbdNLdtPuy44KCvTGIChGgv351JBnb2MmQhECT6QzDSIcj2TrfRbJB7nC6vuDZPP+TjWmJHGu8Rm6MHIdgV35DYKMDvk10YMKLsQ7ZdeCq+EFN0DLRZTGmi1aiYKwUxbwdHLHZjI5EK5ZxzlbttBtWtq86zya0E7gaZWU3el2MRa6j2BnU8d9oMcmrK9uBWd80q5LNShZ5NmarRshNkDvkjAndmq6HtITaVXW5fre5Lt/fBhe/f1p8z/6K/vj84e8zPVn6mCHbJXA6E0+eOrbPvkbLxbf0Fq/DjwXxi6vkDJuliU1VLzqW5TNdxkXOJmyWlUkdjThbzsYUZrVkr855z9hcBm0Z/I8KsTFcyJaCyVAupqX5la4L8QWGn/um97XxS7w2M6vOptG5pLyYUkG5ie1ZFlO+BVvyEX2gFo7OgwI0qGOKeUGZvDTfyAROy0wUd21+ZYamk23eduglK+T9Oda6EpCvhxhB2cRqTyEyPqHCjKoBlY3GbdQhBfMjIDfLvMvKpVkCSnwUDRG2oBEOEI46rFgIzm63ArLbeEphzCFvup6AhZzflGw1yjMuzhdyLeJfyFnlhaBX80whsJJpj8bvjnJB1w8iY371sNWusGv6q9oABiaUN7TvWfdj2ULhsSV3e0o+QFGEiIuSAJEYkfRQJZfymBazTDB+4qr7/omrbnuvxdwObGRm3dpHHsgjhza8Z8Hl9YgkQKGrfCkAhYQ+GJS0S4yVfkIUBtDAREVkzhCFww7oNaT3GVEDvuzbgpVLQUM+MhCraN3zQH0dab6YqLx7NouGqGzvmKoivTBFGGGJDkGEoNDrg0nmuCjEkIMlZCFKUrXpDNXuQ1AkczwUxShKYRTxVPIAhQRmACZYkC+TcQxtnYzjNw230+Ohx4XbfjUnxAObqB3s6aLuT+Wi1W33nzW2suzq0weH1UrTNgoCk55rQwTbKKxkKdMggmGG3nnCRI3CVSMAtRvvtqH9lhXrHdOgb/5xvEvukR/vktuChv7FzZeNeQrcNWi5R4aRaqTw6QHOAxMPY4VyiLCnLHuokmVD4p60LFt+g+MH8LTQzxZ5CUclq2kNx05MgA6w+3JibwK49qkJYPcQAAMi0gQAuBSRoA9cTRLlEpIYOFBbtdpugSQxyBnMIYD9G+COYM9+01AOTg1l37O6PgkRhZcGpQvTVnpd4TefOxOwenDsVE3Y9QQMoiaR4o9daTlV5rAlyTaiRw3eNCW8nlcJx6WE+7rOYzvHoqcD8uy3bt45bkM52IFIHwk77932merlXuH1cuCVvdj4iTlgH44D7nE54P/iwGE44PoH44C7aykvzIHu8esXB57EAWfXwJ/BgV1LeTIHZLf+c1Gn1//Qusn/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-18T14:40:20.243Z" agent="5.0 (Macintosh)" etag="T2bW0vcr7ejTMrNR1Br_" version="14.2.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="D1-YBusbFk8xAOi95iSE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D1-YBusbFk8xAOi95iSE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1-YBusbFk8xAOi95iSE-2" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="130" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D1-YBusbFk8xAOi95iSE-3" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="550" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D1-YBusbFk8xAOi95iSE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D1-YBusbFk8xAOi95iSE-4" target="D1-YBusbFk8xAOi95iSE-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1-YBusbFk8xAOi95iSE-4" value="检查合约版本" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445" y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D1-YBusbFk8xAOi95iSE-9" value="清除合约注释，并使用空格占位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D1-YBusbFk8xAOi95iSE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D1-YBusbFk8xAOi95iSE-16" target="D1-YBusbFk8xAOi95iSE-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1-YBusbFk8xAOi95iSE-16" value="结合合约基本信息生成合约审计报告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445" y="490" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ24Pr49zIEkieA5GfXy-0" value="扫描合约中的漏洞，包括信息和警告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445" y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ24Pr49zIEkieA5GfXy-1" value="读取漏洞扣分配置文件" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445" y="370" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ24Pr49zIEkieA5GfXy-2" value="根据配置和扫描结果对合约进行评分评级" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ24Pr49zIEkieA5GfXy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.8" y="470" as="sourcePoint" />
+            <mxPoint x="514.8" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZ24Pr49zIEkieA5GfXy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.8" y="410" as="sourcePoint" />
+            <mxPoint x="514.8" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZ24Pr49zIEkieA5GfXy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.8" y="350" as="sourcePoint" />
+            <mxPoint x="514.8" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZ24Pr49zIEkieA5GfXy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.8" y="290" as="sourcePoint" />
+            <mxPoint x="514.8" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

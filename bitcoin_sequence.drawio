@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" modified="2021-01-18T03:24:19.689Z" agent="5.0 (Macintosh)" etag="EcgOVfa1SaaipLesHetW" version="14.2.4" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1426" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="比特币节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=Garamond;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="比特币信息提取" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="2.通知最新区块同步完成" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=7;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="197" as="sourcePoint" />
+            <mxPoint x="345" y="197.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-2" value="分类算法" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="oefgWrXp9b9dmfqzYPv9-2" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-6" value="1.同步比特币区块" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;" parent="1" edge="1">
+          <mxGeometry x="0.1478" y="-15" relative="1" as="geometry">
+            <mxPoint x="175.66999999999996" y="162.91999999999996" as="sourcePoint" />
+            <mxPoint x="175" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="225" y="162" />
+              <mxPoint x="225" y="180" />
+            </Array>
+            <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-13" value="7.LSTM模型训练与评估" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;" parent="1" edge="1">
+          <mxGeometry x="0.1478" y="-15" relative="1" as="geometry">
+            <mxPoint x="536.6699999999998" y="300.91999999999996" as="sourcePoint" />
+            <mxPoint x="536" y="318" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="586" y="300" />
+              <mxPoint x="586" y="318" />
+            </Array>
+            <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L75oaCOi5403GgUs-St9-1" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="344" y="218" as="sourcePoint" />
+            <mxPoint x="173.92857142857144" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L75oaCOi5403GgUs-St9-2" value="&lt;font style=&quot;font-size: 7px&quot;&gt;3.查询最新区块信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="L75oaCOi5403GgUs-St9-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.0105" y="1" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L75oaCOi5403GgUs-St9-3" value="4.返回最新区块内容" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=7;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176" y="240" as="sourcePoint" />
+            <mxPoint x="346" y="240.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="241" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L75oaCOi5403GgUs-St9-4" value="5.比特信息提取与转义" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;" parent="1" edge="1">
+          <mxGeometry x="0.1478" y="-15" relative="1" as="geometry">
+            <mxPoint x="356.66999999999996" y="256.91999999999996" as="sourcePoint" />
+            <mxPoint x="356" y="274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="406" y="256" />
+              <mxPoint x="406" y="274" />
+            </Array>
+            <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L75oaCOi5403GgUs-St9-6" value="6.提供最新区块信息数据" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=7;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="356" y="290" as="sourcePoint" />
+            <mxPoint x="526" y="290.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="421" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L75oaCOi5403GgUs-St9-7" value="8.更新分类器" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;" parent="1" edge="1">
+          <mxGeometry x="0.1478" y="-15" relative="1" as="geometry">
+            <mxPoint x="536.6699999999998" y="340.91999999999996" as="sourcePoint" />
+            <mxPoint x="536" y="358" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="586" y="340" />
+              <mxPoint x="586" y="358" />
+            </Array>
+            <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

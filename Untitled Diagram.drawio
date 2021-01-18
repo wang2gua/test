@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T02:38:07.377Z" agent="5.0 (Macintosh)" etag="D8naVqCpiQf9IuWM77S4" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T02:42:02.198Z" agent="5.0 (Macintosh)" etag="xFv1HPcOnYVP_coeNMmf" version="14.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="594" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="300" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="2.获取合约代码" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=7;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -29,7 +29,7 @@
           <mxGeometry x="480" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="oefgWrXp9b9dmfqzYPv9-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="oefgWrXp9b9dmfqzYPv9-2">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oefgWrXp9b9dmfqzYPv9-6" value="1.根据合约地址，初始化爬取任务" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;" edge="1" parent="1">
           <mxGeometry x="0.1478" y="-15" relative="1" as="geometry">
@@ -64,13 +64,44 @@
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oefgWrXp9b9dmfqzYPv9-10" value="5.chua" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=7;" edge="1" parent="1">
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-10" value="5.传递漏洞扫描结果" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;fontSize=7;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="280" as="sourcePoint" />
-            <mxPoint x="530" y="280.0000000000001" as="targetPoint" />
+            <mxPoint x="356" y="279" as="sourcePoint" />
+            <mxPoint x="526" y="279.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="425" y="280" />
+              <mxPoint x="421" y="279" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-11" value="7.获取合约基本信息" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=7;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175.25" y="317" as="sourcePoint" />
+            <mxPoint x="524.75" y="317" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240.25" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-12" value="6.根据扫描结果对合约打分，评级" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;" edge="1" parent="1">
+          <mxGeometry x="0.1478" y="-15" relative="1" as="geometry">
+            <mxPoint x="536.6699999999998" y="288.91999999999996" as="sourcePoint" />
+            <mxPoint x="536" y="306" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="586" y="288" />
+              <mxPoint x="586" y="306" />
+            </Array>
+            <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oefgWrXp9b9dmfqzYPv9-13" value="7.生成合约审计报告" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.067;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;" edge="1" parent="1">
+          <mxGeometry x="0.1478" y="-15" relative="1" as="geometry">
+            <mxPoint x="535.6699999999998" y="330.91999999999996" as="sourcePoint" />
+            <mxPoint x="535" y="348" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="330" />
+              <mxPoint x="585" y="348" />
+            </Array>
+            <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

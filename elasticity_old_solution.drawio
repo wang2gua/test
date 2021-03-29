@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T08:42:16.426Z" agent="5.0 (Macintosh)" version="14.5.3" etag="S66R9fBnSauPiYajXqoe" type="github"><diagram id="RsOzKb26HmQkT2XMpV6y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-29T09:01:31.652Z" agent="5.0 (Macintosh)" etag="vDMJzjlAKt8tTUwwb5J4" version="14.5.3" type="github">
+  <diagram id="RsOzKb26HmQkT2XMpV6y" name="Page-1">
+    <mxGraphModel dx="2116" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-1" value="Redshift: historical values" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redshift;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="225" width="67.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-2" value="SQL:extract" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.script;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="32.5" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-3" value="S3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="218" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-4" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="218" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-5" value="Redshift:tempTable" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redshift;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="162" y="227" width="67.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-6" value="SQL:upload" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.script;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="30" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-7" value="Bash: download and train" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.script;" vertex="1" parent="1">
+          <mxGeometry x="452" y="210" width="30" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.53;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4kcX4pw_G7o-YOA1KvZR-1" target="4kcX4pw_G7o-YOA1KvZR-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="170" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.53;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.5" y="264.25" as="sourcePoint" />
+            <mxPoint x="314" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4kcX4pw_G7o-YOA1KvZR-3" target="4kcX4pw_G7o-YOA1KvZR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="330.25" as="sourcePoint" />
+            <mxPoint x="544.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kcX4pw_G7o-YOA1KvZR-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/business-and-education-1/512/237_professor_student_scientist_teacher_school-128.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="88" height="88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

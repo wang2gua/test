@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T06:33:21.037Z" agent="5.0 (Macintosh)" version="15.5.6" etag="90JAV-PpxdNcUZC59KIA" type="github"><diagram id="DsSjJjClkw_anlTKbf98">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-20T06:42:40.545Z" agent="5.0 (Macintosh)" etag="jQCRxOgcIfkaegNJ3Rmb" version="15.5.6" type="github">
+  <diagram id="DsSjJjClkw_anlTKbf98" name="Page-1">
+    <mxGraphModel dx="1341" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fcozuPdxGlwMEgor9Uya-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="670" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="550" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-3" value="Fargate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-5" target="fcozuPdxGlwMEgor9Uya-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-5" target="fcozuPdxGlwMEgor9Uya-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-5" value="FDPProxyService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-6" value="FDPGetFeeDetailService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-2" target="fcozuPdxGlwMEgor9Uya-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-9" value="FCEARestService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-10" value="FDPXXXService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-11" value="XXXService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="641" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="145" />
+              <mxPoint x="700" y="515" />
+              <mxPoint x="641" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-12" value="FCEARestServiceClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-13" target="fcozuPdxGlwMEgor9Uya-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-13" value="FDPProxyClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-14" target="fcozuPdxGlwMEgor9Uya-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="360" />
+              <mxPoint x="525" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-14" value="FDPGetFeeDetailClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="230" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

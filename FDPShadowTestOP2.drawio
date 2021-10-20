@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T07:49:55.531Z" agent="5.0 (Macintosh)" etag="xm8EAYxrYbJySHUQRPH3" version="15.5.6" type="github"><diagram id="DsSjJjClkw_anlTKbf98" name="Page-1">zZbfj5swDMf/Gh43FULb9XHXX3vYSdWqad1jBD7IlGKUmgL31y8cpjRHb7s76dQ+EX/tOOZjHOGJ+b5aG5mn9xiD9oJRXHli4QWBL0LfPhqlbpXpbNIKiVExB/XCVj0CiyNWCxXDwQkkRE0qd8UIswwicjRpDJZu2ANq99RcJjAQtpHUQ/WXiilt1S/jUa9/A5Wk3cn+iD172QWzcEhljOWZJJaemBtEalf7ag66gddxafetXvCeCjOQ0Ws2PET4WGziaq3L+2WCZvazlp84y1Hqgl+Yi6W6I2CwyGJokow8cVemimCby6jxlrbnVktpr63l2+WwqO4EMATVmcRFrgH3QKa2IeydMi/+YIIOddnjn3Qx6Rl6IViU3PLklLqnYhcM5g2QJgNIq8VmDbQCWABJpQ9bMEdlkVybnR+68MQFeIG4AG/8UeymAyYQ2wFjEw2lmGAm9bJX71xqfcx3xJxZ/QGimm8LWRC6JKFStGu2fx6z9fvMs6g485NRs/Ei/abef7I3oCWpo3thXALJWzeo7BGnngWzsdOz8HkvDliYCHjX+YC/NRFJkwANEj319fQ+72/1bDgm8+XXH3CgWxmP0HfHI5xdezz84QW82+1uhZcvbo5X+N+7eK4V8Ad+VXaBO43+9OPYWbP/j2jHuf8bE8u/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-20T08:35:58.650Z" agent="5.0 (Macintosh)" etag="dcZwsdgU5PjY4CW4AUXK" version="15.5.6" type="github">
+  <diagram id="DsSjJjClkw_anlTKbf98" name="Page-1">
+    <mxGraphModel dx="1341" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fcozuPdxGlwMEgor9Uya-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="250" width="670" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-6" value="FDPGetFeeDetailsService" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="280" width="170" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="450" as="sourcePoint" />
+            <mxPoint x="295" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-14" value="FDPGetFeeDetailsClient" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="180" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-1" value="FDPXXXXService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="170" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-2" value="FCEARestService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="170" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-11" value="CheckWeblabStatus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="310" width="640" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcozuPdxGlwMEgor9Uya-9" value="ResponseDiff" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="500" width="635" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-3" value="ManageTraffic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="380" width="640" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-4" value="EmitMetrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="570" width="635" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-5" value="FDPXXXXClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-6" value="FCEARestClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

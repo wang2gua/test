@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T08:35:58.650Z" agent="5.0 (Macintosh)" etag="dcZwsdgU5PjY4CW4AUXK" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T08:36:20.352Z" agent="5.0 (Macintosh)" etag="W6BroZEek_1O9tHw6P-6" version="15.5.6" type="github">
   <diagram id="DsSjJjClkw_anlTKbf98" name="Page-1">
     <mxGraphModel dx="1341" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
             <mxPoint x="295" y="450" as="sourcePoint" />
             <mxPoint x="295" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-14" target="fcozuPdxGlwMEgor9Uya-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fcozuPdxGlwMEgor9Uya-14" value="FDPGetFeeDetailsClient" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="170" height="50" as="geometry" />
@@ -37,8 +40,14 @@
         <mxCell id="dJ8vZ-xsklOt-_jsUtIB-4" value="EmitMetrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="570" width="635" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJ8vZ-xsklOt-_jsUtIB-5" target="dJ8vZ-xsklOt-_jsUtIB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dJ8vZ-xsklOt-_jsUtIB-5" value="FDPXXXXClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ8vZ-xsklOt-_jsUtIB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJ8vZ-xsklOt-_jsUtIB-6" target="dJ8vZ-xsklOt-_jsUtIB-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dJ8vZ-xsklOt-_jsUtIB-6" value="FCEARestClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="170" height="50" as="geometry" />

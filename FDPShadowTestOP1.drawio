@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T07:01:07.435Z" agent="5.0 (Macintosh)" etag="-fiQguUq3LIq5tcv9P5a" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T07:05:00.234Z" agent="5.0 (Macintosh)" etag="3mhfihyMMTCP_ES3fUYU" version="15.5.6" type="github">
   <diagram id="DsSjJjClkw_anlTKbf98" name="Page-1">
     <mxGraphModel dx="1341" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="fcozuPdxGlwMEgor9Uya-5" value="FDPProxyService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fcozuPdxGlwMEgor9Uya-6" value="FDPGetFeeDetailService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fcozuPdxGlwMEgor9Uya-6" value="FDPGetFeeDetailsService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fcozuPdxGlwMEgor9Uya-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fcozuPdxGlwMEgor9Uya-2" target="fcozuPdxGlwMEgor9Uya-2">
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fcozuPdxGlwMEgor9Uya-14" value="FDPGetFeeDetailClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fcozuPdxGlwMEgor9Uya-14" value="FDPGetFeeDetailsClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="180" width="230" height="50" as="geometry" />
         </mxCell>
       </root>

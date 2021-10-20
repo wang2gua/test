@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T06:01:31.520Z" agent="5.0 (Macintosh)" etag="TLBX1cjiOQJp1DGCQfYw" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T06:33:37.916Z" agent="5.0 (Macintosh)" etag="180EppaZeiKUSO1LZxcr" version="15.5.6" type="github">
   <diagram id="wZlXz-oQ_Jx3TWWxZmx-" name="Page-1">
     <mxGraphModel dx="1341" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BzQlyPtnF97M_jebJq56-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="530" height="450" as="geometry" />
+        </mxCell>
         <mxCell id="BzQlyPtnF97M_jebJq56-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzQlyPtnF97M_jebJq56-2" target="BzQlyPtnF97M_jebJq56-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -67,6 +70,9 @@
             <mxPoint x="570" y="400" as="sourcePoint" />
             <mxPoint x="290" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BzQlyPtnF97M_jebJq56-19" value="Shadow Test Traffic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

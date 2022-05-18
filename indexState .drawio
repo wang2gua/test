@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T14:25:23.640Z" agent="5.0 (Macintosh)" etag="0sIkpA9uBZqEV8EFbCHV" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T14:28:40.763Z" agent="5.0 (Macintosh)" etag="kTzdnkOKAuwAIDDuhooh" version="18.0.7" type="github">
   <diagram id="FjY-7Ksb2wO4chga19lm" name="Page-1">
     <mxGraphModel dx="1639" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="ha8XBUzy3CvQ80WleQfs-14" value="Snapshot" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="470" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ha8XBUzy3CvQ80WleQfs-15" value="Read only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="ha8XBUzy3CvQ80WleQfs-14">
+        <mxCell id="ha8XBUzy3CvQ80WleQfs-15" value="Not visible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="ha8XBUzy3CvQ80WleQfs-14">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ha8XBUzy3CvQ80WleQfs-17" value="Hot Index" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">

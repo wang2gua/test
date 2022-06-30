@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T02:27:35.466Z" agent="5.0 (Macintosh)" etag="ke9K4S4qsvH-kpmNc5oo" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T02:27:57.328Z" agent="5.0 (Macintosh)" etag="YwzKx3tBA5zjgh5mJjpx" version="20.0.3" type="github">
   <diagram id="UnpPWpCCMpY3kTgUmqGS" name="Page-1">
     <mxGraphModel dx="2066" dy="2196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,8 +86,8 @@
         <mxCell id="AmY7bIzJTpSbqmhme9mH-93" value="FDP Index" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmY7bIzJTpSbqmhme9mH-94" value="Transaction Index" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="514" y="-70" width="110" height="30" as="geometry" />
+        <mxCell id="AmY7bIzJTpSbqmhme9mH-94" value="New Transaction Index" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="514" y="-70" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AmY7bIzJTpSbqmhme9mH-97" value="Data flow" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
